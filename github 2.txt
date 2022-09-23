@@ -1,0 +1,10 @@
+https://github.com/GDSE-59-60-Project-Zone
+
+https://github.com/GDSE-59-60-Project-Zone/Validations
+
+git clone https://github.com/GDSE-59-60-Project-Zone/Validations.git
+
+
+git clone 
+
+git pull
